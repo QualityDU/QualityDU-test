@@ -1,0 +1,4 @@
+Tests which shall be ran, treating the deployed system, as an external system.
+This may include (but is not limited to):
+
+- API endpoints testing
